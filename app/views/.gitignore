@@ -1,0 +1,5 @@
+# Ignore Views
+templates/*
+
+# Except
+!templates/404.php
