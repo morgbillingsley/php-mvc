@@ -3,3 +3,6 @@ templates/*
 
 # Except
 !templates/404.php
+!templates/footer.php
+!templates/front.php
+!templates/header.php
