@@ -3,3 +3,4 @@ views/*
 
 # Except
 !views/.gitignore
+!views/templates/

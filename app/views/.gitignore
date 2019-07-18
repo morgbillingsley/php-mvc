@@ -1,4 +1,4 @@
-# Ignore Views
+# Ignore Templates
 templates/*
 
 # Except
