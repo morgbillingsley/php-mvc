@@ -1,6 +1,0 @@
-# Ignore Views
-views/*
-
-# Except
-!views/.gitignore
-!views/templates/

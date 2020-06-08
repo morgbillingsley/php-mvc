@@ -1,7 +1,0 @@
-# Ignore Everything
-*
-
-# Except
-!.gitignore
-!home.php
-!page_not_found.php
